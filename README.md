@@ -9,9 +9,13 @@ I created this repo as a reference material for the Android Application Fundamen
 **Finish project  Fundamental Aplikasi Android (BFAA) Using Kotlin (Github User)**
 
 Use the following endpoints to get data from the API, click on it to see an example of its use.
+
 Search : https://api.github.com/search/users?q={username}
+
 Detail user : https://api.github.com/users/{username}
+
 List Follower : https://api.github.com/users/{username}/followers
+
 List Following : https://api.github.com/users/{username}/following
 
 1. Home Screen Users App
