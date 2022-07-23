@@ -18,35 +18,36 @@ List Follower : https://api.github.com/users/{username}/followers
 
 List Following : https://api.github.com/users/{username}/following
 
-1. Home Screen Users App
+
+**1. Home Screen Users App**
 
 ![1](https://user-images.githubusercontent.com/88584119/180591278-11d742d7-6996-4fe9-9db5-3b34059f4dd8.png)
 
 
-2. Search Users App
+**2. Search Users App**
 
 ![2](https://user-images.githubusercontent.com/88584119/180591280-6f6b3eda-b44e-4c75-a854-3d776a15a07e.png)
 
 
-3. Details Users App add Favorite
+**3. Details Users App add Favorite**
 
 ![4](https://user-images.githubusercontent.com/88584119/180591307-c0d644c3-1ce5-44fa-992c-48361d5bd537.png)
 
 
-4. Users Favorite App
+**4. Users Favorite App**
 
 ![5](https://user-images.githubusercontent.com/88584119/180591320-9d7f6210-f7de-4049-a01e-3a86e122881d.png)
 
 
-5. Menu Setting Users App
+**5. Menu Setting Users App**
 
 ![6](https://user-images.githubusercontent.com/88584119/180591330-6757ff1c-ca3a-48d2-8428-27330439a433.png)
 
 
-6. Home Screen Users App Dark Theme
+**6. Home Screen Users App Dark Theme**
 
 ![7](https://user-images.githubusercontent.com/88584119/180591342-df18e892-2367-4c26-bba9-459a8dbe75a9.png)
 
 
-Created by: MaklonMF
+**Created by: MaklonMF
 
