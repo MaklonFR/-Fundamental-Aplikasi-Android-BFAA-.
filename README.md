@@ -7,3 +7,12 @@ Anyone who has reached school age should know that copying someone else’s work
 Finish project  Fundamental Aplikasi Android (BFAA) Using Kotlin
 
 I created this repo as a reference material for the Android Application Fundamental Learning Coding Class (BFAA) so that I can help my friends in completing the Class Exercises and Submissions that are being worked on. Remember not to just copy-paste without understanding the programming scheme. Spirit. Greetings Coding for Happy
+
+
+
+
+Use the following endpoints to get data from the API, click on it to see an example of its use.
+Search : https://api.github.com/search/users?q={username}
+Detail user : https://api.github.com/users/{username}
+List Follower : https://api.github.com/users/{username}/followers
+List Following : https://api.github.com/users/{username}/following
