@@ -6,6 +6,4 @@ Anyone who has reached school age should know that copying someone else’s work
 
 Finish project  Fundamental Aplikasi Android (BFAA) Using Kotlin
 
-
-Repo ini saya buat sebagai bahan refrensi untuk Kelas Dicoding Belajar Fundamental Aplikasi Android (BFAA) agar dapat membantu teman - teman dalam menyelesaikan Latihan dan Submission Kelas yang sedang dikerjakan. 
-Ingat untuk tidak sekedar mengcopy-paste saja tanpa memahami skema programmingnya. Semangat. Salam Coding for Happy
+I created this repo as a reference material for the Android Application Fundamental Learning Coding Class (BFAA) so that I can help my friends in completing the Class Exercises and Submissions that are being worked on. Remember not to just copy-paste without understanding the programming scheme. Spirit. Greetings Coding for Happy
