@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="label_user">Username</string>
+    <string name="label_name">Name</string>
+    <string name="label_location">Location</string>
+    <string name="label_repo">Repository</string>
+    <string name="label_company">Company</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_following">Following</string>
+    <string name="profile">Profile</string>
+    <string name="label_about">
+      A design is a plan or specification for the construction of an object or system or for the implementation
+      of an activity or process or the result of that plan or specification in the form of a prototype, product,
+      or process.
+    </string>
+    <string name="tx_name">TextView</string>
+    <string name="tx_username">TextView</string>
+    <string name="tx_location">TextView</string>
+    <string name="search">Search</string>
+    <string name="search_hint">search users</string>
+
+
+</resources>

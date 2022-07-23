@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_number">Pilih Angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data diterima</string>
+    <string name="object_received">Object diterima</string>
+    <string name="this_is_moveacivity">Ini MoveActivity</string>
+    <string name="title_activity_move_with_data">MoveWithDataActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
